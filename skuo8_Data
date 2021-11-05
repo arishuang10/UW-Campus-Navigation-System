@@ -1,0 +1,31 @@
+Camp Randall Stadium, Engineering Hall, 0.4
+Camp Randall Stadium, Dejope, 1.0
+Camp Randall Stadium, Union South, 0.3
+Dejope Residence Hall, Nancy Nicholas Hall, 0.6
+Dejope Residence Hall, Waters Residence Hall, 0.7
+Union South, Engineering Hall, 0.2
+Union South, Chemistry Building, 0.3
+Engineering Hall, Medical Sciences Center, 0.5
+Medical Sciences Center, Nancy Nicholas Hall, 0.2
+Medical Sciences Center, Chemistry Building, 0.4
+Nancy Nicholas Hall, Van Hise Hall, 0.1
+Nancy Nicholas Hall, Waters Residence Hall, 0.2
+Waters Residence Hall, Van Hise Hall, 0.1
+Waters Residence Hall, Memorial Union, 0.4
+Memorial Union, Van Hise Hall, 0.4
+Memorial Union, Memorial Library, 0.0833
+Memorial Library, Witte Residence Hall, 0.3
+Van Hise Hall, Birge Hall, 0.2
+Birge Hall, Chemistry Building, 0.2
+Birge Hall, Medical Sciences Center, 0.3
+Birge Hall, Music Hall, 0.2
+Chemistry Building, The Kohl Center, 0.6
+Music Hall, Chemistry Building, 0.3
+Music Hall, Mosse Humanities Building, 0.1
+Mosse Humanities Building, Memorial Library, 0.2
+Vilas Hall, Mosse Humanities Building, 0.1
+Vilas Hall, Chemistry Building, 0.2
+333 East Campus Mall, Vilas Hall, 0.0912879
+Witte Residence Hall, 333 East Campus Mall, 0.1
+Witte Residence Hall, The Kohl Center, 0.1
+The Kohl Center, Camp Randall Stadium, 0.8
